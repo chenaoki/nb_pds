@@ -1,4 +1,4 @@
-# nb_template
+# nb_pds
 
 upyter notebook pages for the paper titled
 
