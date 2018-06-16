@@ -1,0 +1,6 @@
+[submodule "elecpy"]
+	path = elecpy
+	url = https://github.com/chenaoki/elecpy.git
+[submodule "opmap"]
+	path = opmap
+	url = https://github.com/chenaoki/opmap.git

@@ -1,0 +1,38 @@
+{
+    "cell_type": "mahajan", 
+    "log": {
+        "path": "/mnt/recordings/SimulationResults/20170809-4", 
+        "cnt": 1000
+    }, 
+    "stimulation": {
+        "extracellular": [
+            {
+                "name": "edge_L", 
+                "interval": 200.0, 
+                "start": 0.0, 
+                "shape": [
+                    300, 
+                    300
+                ], 
+                "train": 1, 
+                "amplitude": 30.0, 
+                "duration": 5.0, 
+                "size": 150
+            }
+        ], 
+        "membrane": []
+    }, 
+    "time": {
+        "end": 400, 
+        "udt": 0.001
+    }, 
+    "geometory": {
+        "width": 300, 
+        "ds": 0.015, 
+        "height": 300
+    }, 
+    "restart": {
+        "count": 300, 
+        "source": "/mnt/recordings/SimulationResults/20170809-3"
+    }
+}
