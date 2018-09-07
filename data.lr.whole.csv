@@ -1,0 +1,26 @@
+sim_id,gna,description
+20180806-1,16,default
+20180806-2,8,sodium channel block
+20180806-3,8,sodium channel block <= 20180806-2
+20180809-1,16, APD prolongation (0.7)
+20180809-2,16, APD prolongation (0.9)
+20180809-3,16, APD prolongation (0.8)
+20180809-4,16, APD prolongation (0.75)
+20180809-5,16, APD prolongation (0.72)
+20180809-6,16, APD prolongation (0.71)
+20180815-1,3.2, sodium channel block
+20180815-2,2.4, sodium channel block
+20180815-3,2.0, sodium channel block
+20180815-4,1.6, sodium channel block
+20180816-1,4,sodium channel block <= 20180806-3
+20180816-2,4,sodium channel block <= 20180816-1
+20180816-3,4,sodium channel block & ltype channel ca modification (/1.4) <= 20180816-1
+20180816-4,4,sodium channel block & ltype channel ca modification (*0.7) <= 20180816-1
+20180816-5,4,sodium channel block & ltype channel ca modification (*0.68) <= 20180816-1
+20180816-6,12,sodium channel block & brugada
+20180817-1,20, APD prolongation (0.71) & sodium channel accerelation & brugada
+20180817-2,20, APD prolongation (0.71) & sodium channel accerelation & brugada
+20180817-3,20, APD prolongation (0.71) & sodium channel accerelation & brugada
+20180817-4,20, APD prolongation (0.71) & sodium channel accerelation & brugada
+20180817-5,20, APD prolongation (0.71) & sodium channel accerelation & brugada
+20180817-6,20, APD prolongation (0.65) & sodium channel accerelation & brugada

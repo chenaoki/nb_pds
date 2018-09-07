@@ -124,7 +124,7 @@ def plot_phase_surface(sess, frame, flip = False, cut_thre = 2*np.pi*0.75):
     wire_x1 = np.delete(wire_x1, to_delete, axis=1)
     wire_y1 = np.delete(wire_y1, to_delete, axis=1)
     wire_z1 = np.delete(wire_z1, to_delete, axis=1)
-    scalars = np.delete(wire_z, to_delete)
+    scalars = np.delete((wire_z1[0,:] + wire_z1[1,:]) / 2., to_delete)
 
     segs = [list(zip(xl, yl, zl)) for xl, yl, zl in \
                  zip(wire_x1.T, wire_y1.T, wire_z1.T)]

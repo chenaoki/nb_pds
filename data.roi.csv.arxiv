@@ -1,0 +1,10 @@
+sim_id,x_min,x_max,y_min,y_max,f_min,f_max,description
+20180625-1,90,130,80,120,60,100, meandering
+20180625-1,70,100,85,115,50,80, meandering
+20180616-1,40,80,120,160,80,160, out of trajectory
+20180725-2,80,120,80,120,3600,4000,over the trajectory of vortex shedding (100microsec)
+20180725-2,40,80,120,160,800,1600,out of trajectory (100microsec)
+20180725-1,70,100,85,115,500,800, meandering (100microsec)
+20180725-1,110,150,80,120,1200,1600, meandering (100microsec)
+20180725-1,90,130,80,120,600,1000, meandering (100microsec)
+20180725-1,160,200,80,120,2200,2600, spiral stop (100microsec)
