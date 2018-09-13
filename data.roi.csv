@@ -1,6 +1,6 @@
 sim_id,x_min,x_max,y_min,y_max,f_min,f_max, result_id, description
-20180525-1,135,165,85,115,290,330, A, control
-20180823-1,80,120,80,120,105,175, B, pinning
-20180625-1,110,150,80,120,120,160, C-1, meandering
-20180625-1,160,200,80,120,220,260, C-2, spiral stop 
-20180616-1,80,120,80,120,360,400, D, over the trajectory of vortex shedding
+20180525-1,135,165,85,115,290,330, -, control
+20180823-1,80,120,80,120,105,175, A, pinning
+20180625-1,110,150,80,120,120,160, C, meandering
+20180625-1,160,200,80,120,220,260, D, spiral stop 
+20180616-1,80,120,80,120,360,400, B, over the trajectory of vortex shedding
