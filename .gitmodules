@@ -1,5 +1,5 @@
 [submodule "elecpy"]
-	path = elecpy
+	path = simulation/elecpy
 	url = https://github.com/chenaoki/elecpy.git
 [submodule "opmap"]
 	path = opmap
