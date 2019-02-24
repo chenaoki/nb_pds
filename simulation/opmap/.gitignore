@@ -1,0 +1,10 @@
+*.png
+*.pyc
+result*
+sample_session/*
+.ipynb_checkpoints/*
+*.ipynb
+dist/*
+*egg-info*
+build/*
+.python-version*
